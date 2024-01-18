@@ -1,0 +1,18 @@
+.cardBody {
+    display: block;
+    width: 280px;
+    height: 100px;
+    border: solid 2px;
+    margin: 20px;
+    float: left;
+    margin: 10px 80px;
+    padding: 35px 15px;
+    font-size: var(--large-font);
+    font-weight: bold;
+}
+
+.description {
+    font-size: var(--small-font);
+    margin: 30px 0;
+    font-weight: lighter;
+}

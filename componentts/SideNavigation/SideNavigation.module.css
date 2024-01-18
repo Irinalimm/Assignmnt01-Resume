@@ -1,0 +1,47 @@
+.sidenav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: var(--white);
+  overflow-x: hidden;
+  padding-top: 20px;
+  border-right: 2px solid var(--blue);
+  text-align: center;
+}
+
+.profile {
+  display: flex;
+  position: relative;
+  margin-left: 10px;
+  top: 0;
+  left: 0;
+}
+
+.name {
+  font-size: var(--large-font);
+  text-align: left;
+  line-height: 0%;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.job {
+  font-size: 10pt;
+  font-style: italic;
+  text-align: left;
+  line-height: 0%;
+  margin-left: 20px;
+  margin-bottom: 30px;
+  font-weight: 100;
+}
+
+.menu :hover {
+  color: var(--white);
+  background-color: var(--blue);
+  padding-left: 8pt;
+  font-weight: 100;
+
+}

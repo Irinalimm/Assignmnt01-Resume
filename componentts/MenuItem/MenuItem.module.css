@@ -1,0 +1,12 @@
+.menuContainer {
+    padding: 5px;
+    margin: 0 15px;
+    font-size: 15px;
+    background-color: var(--white);
+    transition: 0.3s;
+    text-align:left;
+    font-weight: lighter;
+  }
+
+
+

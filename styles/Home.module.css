@@ -1,0 +1,15 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: 0;
+  min-height: 20vh;
+  margin-left: 210px !important;
+}
+
+.cardContainer{
+  display:flexbox;
+  height:100%;
+  flex-direction: row;
+  justify-content: space-around;
+}
